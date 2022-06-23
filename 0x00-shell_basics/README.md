@@ -4,3 +4,4 @@
 4- Display current directory contents in long format
 5- Hidden files starting with
 6 - List files with user and group IDS displayed numerically
+7- Create a directory named "myfirstdirectory" in /tmp directory
