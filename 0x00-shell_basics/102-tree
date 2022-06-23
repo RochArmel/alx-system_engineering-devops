@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p  welcome to school | mv to welcome | mv school welcome | cd welcome | mv school to 

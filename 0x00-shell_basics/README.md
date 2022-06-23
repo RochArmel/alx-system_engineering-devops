@@ -10,4 +10,6 @@
 10- Delete the directory my "myfirstdirectory"
 11 - Change current directory to the previous one
 12 - List hidden files of current directory and parent directory and /boot in long format
-13 - prints the type of the file iamafile   
+13 - prints the type of the file iamafile
+16 - move all files beginning by uppercase letter to /tmp/u
+17 - remove all files ending by ~ in current directory 
