@@ -9,4 +9,5 @@
 9- delete betty
 10- Delete the directory my "myfirstdirectory"
 11 - Change current directory to the previous one
-12 - List hidden files of current directory and parent directory and /boot in long format  
+12 - List hidden files of current directory and parent directory and /boot in long format
+13 - prints the type of the file iamafile   
