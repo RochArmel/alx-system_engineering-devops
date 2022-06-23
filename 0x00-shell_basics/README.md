@@ -6,4 +6,5 @@
 6 - List files with user and group IDS displayed numerically
 7- Create a directory named "myfirstdirectory" in /tmp directory
 8- Move the betty from /tmp to /tmp/myfirstdirectory/
-9- Bye bye betty
+9- delete betty
+10- Delete the directory my "myfirstdirectory"
