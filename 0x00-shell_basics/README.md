@@ -8,4 +8,5 @@
 8- Move the betty from /tmp to /tmp/myfirstdirectory/
 9- delete betty
 10- Delete the directory my "myfirstdirectory"
-11 - Change current directory to the previous one 
+11 - Change current directory to the previous one
+12 - List hidden files of current directory and parent directory and /boot in long format  
